@@ -3,4 +3,4 @@ console.log[i];
 }
 
 
-ahh for 2nd push
+ahh for more push
